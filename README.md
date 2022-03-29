@@ -9,6 +9,7 @@
 
 As a experienced Data Scientist and Student combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to trendslab real problems, I developed a critical thinking and problem-solving skills.
 
+print("See you!")
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
